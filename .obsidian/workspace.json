@@ -11,14 +11,10 @@
             "id": "9e5273ba69410dcf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unit 1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Unit 1"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5026054382324
+    "width": 303.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "45ac5864d4626d61",
@@ -182,8 +179,10 @@
   },
   "active": "9e5273ba69410dcf",
   "lastOpenFiles": [
-    "Big Data.md",
     "Unit 1.md",
+    "Big Data/Unit 1.md",
+    "Big Data/Big Data.md",
+    "Big Data.md",
     "Big Data",
     "Design Thinking/Unit 2.md",
     "Design Thinking/Unit 1.md",
@@ -226,8 +225,6 @@
     "Meeting.md",
     "Technometer/Science Odyssey/Documentation.md",
     "`Internet of Things (IoT)/IoT.md",
-    "Data Warehousing and Data Mining/IoT.md",
-    "Mobile and Web Security/Web Security Root.md",
     "Open Elective/Untitled.canvas"
   ]
 }
