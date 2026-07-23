@@ -1,0 +1,46 @@
+/* body { */
+
+/* --file-line-width: 900px; */
+
+/* } */
+
+/* Center all mermaid diagrams */
+.mermaid {
+    text-align: center;
+    margin: auto;
+}
+
+/* Optional: Ensure they don't exceed screen width */
+.mermaid svg {
+    max-width: 100%;
+    height: auto;
+}
+
+
+/* For inline code */
+
+.cm-inline-code {
+
+background-color: #f0f0f0;
+
+color: #007ACC;
+
+font-weight: bold;
+
+}
+
+/* For code blocks */
+
+.cm-codeblock {
+
+background-color: #1e1e1e;
+
+color: #dcdcaa;
+
+font-family: "Fira Code", monospace;
+
+padding: 0.5em;
+
+border-radius: 5px;
+
+}

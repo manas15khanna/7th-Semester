@@ -1,0 +1,12 @@
+{
+  "accentColor": "#6eb4fa",
+  "cssTheme": "Minimal",
+  "monospaceFontFamily": "FiraCode Nerd Font Mono",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "theme": "system",
+  "baseFontSize": 22,
+  "enabledCssSnippets": [
+    "linewidth"
+  ]
+}

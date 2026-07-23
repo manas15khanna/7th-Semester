@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "a1a39efe7768be74",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7172542a88538ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e5273ba69410dcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unit 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unit 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d8eb1639da2da5f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "0729a9896be706e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6b132d5ed617864",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "23c435d788ca8495",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "985b194de824f7c9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303.5026054382324
+  },
+  "right": {
+    "id": "45ac5864d4626d61",
+    "type": "split",
+    "children": [
+      {
+        "id": "487ad4b0908207b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "181114a993d5e1f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Aglie Software Development/Agile Software Development.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Agile Software Development"
+            }
+          },
+          {
+            "id": "554d728e4fad2dea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "95c34a35795e857e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "16d60c983e3bbe6a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "04100e15d1b9beb6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "9e5273ba69410dcf",
+  "lastOpenFiles": [
+    "Big Data.md",
+    "Unit 1.md",
+    "Big Data",
+    "Design Thinking/Unit 2.md",
+    "Design Thinking/Unit 1.md",
+    "Aglie Software Development/Unit 1.md",
+    "Minor Project.md",
+    "Compiler Design/phases.png",
+    "Compiler Design/Unit 1.md",
+    "Compiler Design/Compiler Design.md",
+    "6th Sem Notes/Compiler Design /CD File/images/logo.png",
+    "6th Sem Notes/Compiler Design /CD File/images/6.png",
+    "6th Sem Notes/Compiler Design /CD File/images/5.png",
+    "6th Sem Notes/Compiler Design /CD File/images/4.png",
+    "6th Sem Notes/Compiler Design /CD File/images/3.png",
+    "6th Sem Notes/Compiler Design /CD File/images/2.png",
+    "6th Sem Notes/Compiler Design /CD File/images/1.png",
+    "6th Sem Notes/Compiler Design /CD File/code/6.cpp",
+    "6th Sem Notes/Compiler Design /CD File/code/5.cpp",
+    "6th Sem Notes/Compiler Design /CD File/code/4.cpp",
+    "6th Sem Notes/Compiler Design /CD File/code/2.cpp",
+    "6th Sem Notes/Compiler Design /CD File/code/3.cpp",
+    "6th Sem Notes/Compiler Design /CD File/code/1.cpp",
+    "6th Sem Notes/Compiler Design /CD File/logo.png",
+    "6th Sem Notes/Compiler Design /CD File/file.toc",
+    "6th Sem Notes/Compiler Design /CD File/images",
+    "6th Sem Notes/Compiler Design /CD File/file.tex",
+    "6th Sem Notes/Web Security/Web File/images/9.2.png",
+    "Design Thinking/Design Thinking.md",
+    "Aglie Software Development/Unit 4.md",
+    "Aglie Software Development/Agile Software.md",
+    "Aglie Software Development/Unit 3.md",
+    "Aglie Software Development/Practical File/Agile Software Development.md",
+    "Aglie Software Development/Unit 2.md",
+    "Electronic waste management/E-Waste.md",
+    "Mobile and Web Security/Mobile and Web Security.md",
+    "DSA/DSA.md",
+    "GUIDE.md",
+    "Internet of Things (IoT)/IoT.md",
+    "Compiler Design/Practical/Compiler Design - Practical File.md",
+    "README.md",
+    "Meeting.md",
+    "Technometer/Science Odyssey/Documentation.md",
+    "`Internet of Things (IoT)/IoT.md",
+    "Data Warehousing and Data Mining/IoT.md",
+    "Mobile and Web Security/Web Security Root.md",
+    "Open Elective/Untitled.canvas"
+  ]
+}
