@@ -23,4 +23,10 @@ A cloud ecosystem refers to the interconnected set of services, platforms, provi
 - Platform services for building and deploying applications 
 - Software applications delivered directly to end users 
 - Third-party APIs and integrations that extend functionality 
-- Developer tools such as 
+- Developer tools such as marketplaces, and partner networks 
+# What is SAAS 
+SaaS is a cloud service model where fully functional software applications are delivered over the internet, and users simply access them through a browser without installing or managing anything. 
+## Characteristics
+- No installation or maintenance required by the user 
+- Provider manages servers, updates and security 
+- Usually subscription-based pricing (monthly/yearly)

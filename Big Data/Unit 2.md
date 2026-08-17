@@ -50,4 +50,3 @@ Each computer has it's own CPU, memory and storage.
 3. Data Processing 
 4. Data Analysis
 5. Data Reporting 
-6. 
