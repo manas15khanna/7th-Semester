@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6d124e48b3c7bacd",
+        "id": "961403628a21a763",
         "type": "tabs",
         "children": [
           {
-            "id": "241ab410bf2894a4",
+            "id": "7809562ecd67429c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,16 +183,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "241ab410bf2894a4",
+  "active": "7809562ecd67429c",
   "lastOpenFiles": [
-    "Big Data/Unit 2.md",
+    "INDEX.md",
+    "Ethical Hacking/Ethical Hacking.md",
+    "IoT Security/IoT Case Studies.md",
+    "Untitled.md",
+    "IoT Security/IoT Security.md",
     "Big Data/Unit 3.md",
+    "IoT Security",
+    "Big Data/Unit 2.md",
+    "Ethical Hacking/Unit 1.md",
     "Big Data/Big Data.md",
     "Big Data/Unit 1.md",
-    "Ethical Hacking/Ethical Hacking.md",
     "Cloud Applications/Unit 1.md",
-    "Ethical Hacking/Unit 1.md",
-    "INDEX.md",
     "Cloud Applications/Cloud Applications.md",
     "Ethical Hacking",
     "Cloud Applications",
@@ -219,7 +223,6 @@
     "6th Sem Notes/Compiler Design /CD File/code/3.cpp",
     "6th Sem Notes/Compiler Design /CD File/code/1.cpp",
     "6th Sem Notes/Compiler Design /CD File/logo.png",
-    "6th Sem Notes/Compiler Design /CD File/file.toc",
     "6th Sem Notes/Web Security/Web File/images/9.2.png",
     "Design Thinking/Design Thinking.md",
     "Aglie Software Development/Unit 4.md",
@@ -228,9 +231,6 @@
     "Aglie Software Development/Practical File/Agile Software Development.md",
     "Aglie Software Development/Unit 2.md",
     "Electronic waste management/E-Waste.md",
-    "Mobile and Web Security/Mobile and Web Security.md",
-    "DSA/DSA.md",
-    "GUIDE.md",
     "Open Elective/Untitled.canvas"
   ]
 }

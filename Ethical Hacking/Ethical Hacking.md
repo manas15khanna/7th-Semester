@@ -6,3 +6,8 @@ Banner Grabbing
 Fingerprinting 
 
 Scope of footprinting, fully passive or active?? 
+
+DNS Architecture 
+	Records 
+	Types of DNS Records 
+Email 
