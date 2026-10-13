@@ -11,3 +11,8 @@ DNS Architecture
 	Records 
 	Types of DNS Records 
 Email 
+
+
+| S.No | Command | Action | Banner Grabbed |
+| ---- | ------- | ------ | -------------- |
+|      |         |        |                |
