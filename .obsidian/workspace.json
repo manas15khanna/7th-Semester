@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Applications/Cloud Applications.md",
+                "file": "Big Data/Unit 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cloud Applications"
+              "title": "Unit 3"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Applications/Cloud Application Development and Deployment.md",
+                "file": "Big Data/Unit 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cloud Application Development and Deployment"
+              "title": "Unit 4"
             }
           }
         ],
@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5026054382324,
-    "collapsed": true
+    "width": 303.5026054382324
   },
   "right": {
     "id": "45ac5864d4626d61",
@@ -201,20 +200,24 @@
   "active": "4261360da3849cce",
   "lastOpenFiles": [
     "Cloud Applications/Cloud Applications.md",
+    "Cloud Applications/Study Guide Cloud Apps.md",
+    "Cloud Applications/Assignment 2.md",
     "Cloud Applications/Unit 1.md",
-    "Cloud Applications/Cloud Application Development and Deployment.md",
+    "Big Data/Big Data.md",
+    "Ethical Hacking/Ethical Hacking.md",
+    "Big Data/Unit 4.md",
+    "INDEX.md",
+    "Ethical Hacking/CSE 420 - Ethical Hacking & Cyber Threat Intelligence.md",
+    "Big Data/Unit 2.md",
+    "Ethical Hacking/CSE 420 — Ethical Hacking & Cyber Threat Intelligence.md",
     "Big Data/Unit 3.md",
     "Big Data/Assignment 1.md",
-    "Big Data/Big Data.md",
-    "Attendance.md",
-    "INDEX.md",
-    "Ethical Hacking/Ethical Hacking.md",
-    "IoT Security/IoT Case Studies.md",
-    "IoT Security/IoT Security.md",
-    "IoT Security",
-    "Big Data/Unit 2.md",
-    "Ethical Hacking/Unit 1.md",
     "Big Data/Unit 1.md",
+    "IoT Security/IoT Security.md",
+    "IoT Security/IoT Case Studies.md",
+    "Attendance.md",
+    "IoT Security",
+    "Ethical Hacking/Unit 1.md",
     "Ethical Hacking",
     "Cloud Applications",
     "Big Data.md",
@@ -242,10 +245,6 @@
     "6th Sem Notes/Compiler Design /CD File/logo.png",
     "6th Sem Notes/Web Security/Web File/images/9.2.png",
     "Design Thinking/Design Thinking.md",
-    "Aglie Software Development/Unit 4.md",
-    "Aglie Software Development/Agile Software.md",
-    "Aglie Software Development/Unit 3.md",
-    "Aglie Software Development/Practical File/Agile Software Development.md",
     "Open Elective/Untitled.canvas"
   ]
 }

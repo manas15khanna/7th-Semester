@@ -1,4 +1,6 @@
 [[Cloud Applications/Unit 1]]
+[[Assignment 2]]
+[[Study Guide Cloud Apps]]
 Private servers needed at peak = 4000/80 = 50 servers
 25% headroom = 50 x (1+0.25) = 62.5 ~ 63 Servers
 Exact cost (62.5 servers): 62.5 x 180 = $11,250
